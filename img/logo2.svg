@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="294mm"
+   height="106.92613mm"
+   viewBox="0 0 1041.7323 378.87212"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo-def-2.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="374.53899"
+     inkscape:cy="269.28962"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(672.39613,-422.7797)">
+    <g
+       id="g4532"
+       transform="matrix(1.9465224,0,0,1.9465224,730.64484,-1335.4631)">
+      <g
+         transform="matrix(2.4921216,0,0,-2.4921216,-1509.6606,1676.0625)"
+         id="g50">
+        <text
+           id="text54"
+           style="font-variant:normal;font-weight:bold;font-size:39.63358688px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu-Bold;writing-mode:lr-tb;fill:#040606;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0.999999,0.00117,0.00117,-0.999999,382.722,256.833)">
+          <tspan
+             id="tspan52"
+             y="0"
+             x="0 25.524031 36.9776 53.702972 75.620346 93.217026 116.36304">Pirates</tspan>
+        </text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path56"
+         style="fill:#040606;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -648.38338,953.62635 0.0125,10.33483 c -3.80049,1.16133 -5.98857,2.36752 -5.6322,3.13758 1.24855,-0.36385 3.24724,-0.52833 5.63469,-0.37631 l 0.0623,53.69775 c -5.79418,11.1921 2.532,28.3379 2.532,28.3379 0,0 -6.18794,-18.2996 7.53119,-26.9772 12.62259,-7.9823 56.1774,-4.2889 56.00046,-28.86874 -0.25419,-34.81494 -40.40975,-34.55576 -60.54858,-30.35903 l -0.01,-8.93425 z m 5.5998,13.94841 c 10.07814,2.40988 21.91821,10.11801 18.00807,28.72918 -1.94385,9.26326 -12.05937,14.11286 -17.95324,18.12266 z m 19.38123,93.93304 c -33.64115,0.037 -60.94732,-27.2015 -60.98471,-60.8451 -0.0399,-33.64119 27.19902,-60.94488 60.84017,-60.98226 33.64364,-0.0399 60.94732,27.19902 60.9872,60.84016 0.0374,33.6436 -27.20151,60.9473 -60.84266,60.9872 l 0,0" />
+    </g>
+  </g>
+</svg>
